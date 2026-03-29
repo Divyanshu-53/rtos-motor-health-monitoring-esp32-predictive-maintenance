@@ -1,0 +1,6 @@
+*.ino linguist-language=C
+*.c linguist-language=C
+*.h linguist-language=C
+README.md linguist-documentation
+*.pdf linguist-documentation
+*.json linguist-language=JSON
