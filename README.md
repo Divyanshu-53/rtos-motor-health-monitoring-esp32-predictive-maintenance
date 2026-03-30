@@ -340,8 +340,8 @@ GND      ←→  Common ground
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32.git
-   cd rtos-motor-health-monitoring-esp32
+   git clone https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32-predictive-maintenance.git
+   cd rtos-motor-health-monitoring-esp32-predictive-maintenance
    ```
 
 2. **Install Arduino IDE Dependencies**
@@ -483,7 +483,7 @@ If you use this project in research or publications, please cite:
   title = {RTOS-Based Predictive Maintenance System for Electric Motors using ESP32},
   year = {2026},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32}}
+  howpublished = {\url{https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32-predictive-maintenance}}
 }
 ```
 
@@ -499,8 +499,8 @@ If you use this project in research or publications, please cite:
 **Project Date:** March 28, 2026  
 
 ### Getting Support
-- **Issues & Bugs:** [GitHub Issues](https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32/discussions)
+- **Issues & Bugs:** [GitHub Issues](https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32-predictive-maintenance/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32-predictive-maintenance/discussions)
 
 ---
 
@@ -543,8 +543,8 @@ If you use this project in research or publications, please cite:
 
 **Status:** ✅ **COMPLETE & PRODUCTION-READY**  
 
-**Repository:** [GitHub - RTOS Motor Health Monitoring ESP32](https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32)
+**Repository:** [GitHub - RTOS Motor Health Monitoring ESP32](https://github.com/Divyanshu-53/rtos-motor-health-monitoring-esp32-predictive-maintenance)
 
-*Last Updated: March 28, 2026*
+*Last Updated: March 30, 2026*
 
 </div>
